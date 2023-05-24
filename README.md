@@ -1,2 +1,2 @@
-# fireentity1.github.io
-Random testing stuff
+# https://fireentity1.github.io/
+Random stuff for now, adding things later
